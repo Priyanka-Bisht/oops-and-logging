@@ -1,0 +1,32 @@
+2022-07-08 18:07:44,394 root INFO i am going ti read a file
+2022-07-08 18:07:44,394 root CRITICAL this is a situation for us
+2022-07-08 18:07:44,394 root ERROR [Errno 2] No such file or directory: 'pink.txt'
+2022-07-08 18:07:44,394 root ERROR [Errno 2] No such file or directory: 'pink.txt'
+Traceback (most recent call last):
+  File "C:/Users/Dell/Downloads/Ineuron Python/Ineuron pycharm code/testlog2.py", line 6, in <module>
+    with open("pink.txt" , "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'pink.txt'
+2022-09-14 18:23:54,539 root INFO i am going to read a file
+2022-09-14 18:23:54,539 root CRITICAL this is a situation for us
+2022-09-14 18:23:54,539 root ERROR [Errno 2] No such file or directory: 'pink.txt'
+2022-09-14 18:23:54,539 root ERROR [Errno 2] No such file or directory: 'pink.txt'
+Traceback (most recent call last):
+  File "C:/Users/Dell/Downloads/Ineuron Datascience/PYTHON/Ineuron pycharm code/Logging/testlog2.py", line 6, in <module>
+    with open("pink.txt" , "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'pink.txt'
+2022-09-14 20:45:10,574 root INFO i am going to read a file
+2022-09-14 20:45:10,574 root CRITICAL this is a situation for us
+2022-09-14 20:45:10,574 root ERROR [Errno 2] No such file or directory: 'pink.txt'
+2022-09-14 20:45:10,574 root ERROR [Errno 2] No such file or directory: 'pink.txt'
+Traceback (most recent call last):
+  File "C:/Users/Dell/Downloads/Ineuron Datascience/PYTHON/Ineuron pycharm code/Logging/testlog2.py", line 6, in <module>
+    with open("pink.txt" , "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'pink.txt'
+2022-09-15 10:16:35,975 root INFO i am going to read a file
+2022-09-15 10:16:35,975 root CRITICAL this is a situation for us
+2022-09-15 10:16:35,975 root ERROR [Errno 2] No such file or directory: 'pink.txt'
+2022-09-15 10:16:35,975 root ERROR [Errno 2] No such file or directory: 'pink.txt'
+Traceback (most recent call last):
+  File "C:/Users/Dell/Downloads/Ineuron Datascience/PYTHON/Ineuron pycharm code/Logging/testlog2.py", line 6, in <module>
+    with open("pink.txt" , "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'pink.txt'
